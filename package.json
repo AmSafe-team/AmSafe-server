@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node build",
     "build": "tsc",
-    "dev": "tsc-watch --onSuccess \"npm start\" "
+    "dev": "tsc-watch --onSuccess \"npm start\" ",
+    "vercel-build": "echo hello"
   },
   "repository": {
     "type": "git",

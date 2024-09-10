@@ -141,5 +141,14 @@ npm run start
 | `contact_email` | `string` | **Required!!** Contact Email|
 
 
+### Chatroom API
 
+#### Get Chatroom
+```http
+  PUT /api/chatroom
+```
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `host_email` | `string` | **Required!!** User Email|
+| `contact_email` | `string` | **Required!!** Contact Email|
 

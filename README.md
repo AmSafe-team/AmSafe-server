@@ -13,7 +13,7 @@ git clone https://github.com/AmSafe-team/AmSafe-server.git
 #### Go to the project directory
 
 ```bash
-  cd besafe_app_server
+  cd AmSafe-server
 ```
 
 #### Install dependencies
